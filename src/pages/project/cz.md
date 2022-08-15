@@ -20,6 +20,6 @@ tags:
 
 其他方式请联系服主Itz_Dr_Li
 
-![zfb.jpg](assets/zfb.jpg)
+![zfb.jpg](../../../public/assets/zfb.jpg)
 
-![wx.jpg](assets/wx.jpg)
+![wx.jpg](../../../public/assets/wx.jpg)
